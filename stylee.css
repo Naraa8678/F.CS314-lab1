@@ -20,6 +20,7 @@ body{
         width: 70%;
         font-family: Georgia;
         font-weight: bold;
+        text-size-adjust: text;
     }
     p{
         color: aliceblue;
