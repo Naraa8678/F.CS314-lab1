@@ -8,6 +8,7 @@ body{
         width: 100%;
         font-family: Georgia;
         text-align: center;
+        background-color: #141E30;
     }
     h2{
         border-bottom: 1px solid rgba(255, 255, 255, 0.5);
