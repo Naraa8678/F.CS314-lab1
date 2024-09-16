@@ -7,7 +7,8 @@ body{
         padding-top: 100px;
         width: 100%;
         font-family: Georgia;
-        text-align: center;
+        text-align: center;s
+        background: fixed;
     }
     h2{
         border-bottom: 1px solid rgba(255, 255, 255, 0.5);
